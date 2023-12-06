@@ -1,0 +1,179 @@
+body{
+    font-family: "Raleway",sans-serif;
+}
+*{
+    margin: 0; font-weight: 200;
+}
+ul{
+    position: absolute; right: 18px; position: relative; top: -55px; margin: 0; list-style: none; display: flex; font-size: 15px; padding: 18px;
+}
+a{
+    text-decoration: none; padding-top: 11px; padding-bottom: 14px; padding-left: 13px; padding-right: 13px; color: black; font-size: 18px;
+}
+a:hover{
+    background-color: lightgray;
+}
+#o1{
+    background-color: white; width: 1516px; border: none; height: 45px;
+}
+#o2{
+    background-color: red; color: white;
+}
+#o2:hover{
+    background-color: lightgray;
+    color: black;
+}
+#o3{
+    margin-left:10px; position: relative; top: -60px;
+}
+#o4{
+    position: relative; top: -616px; border: none; width: 720px; height: 307px; margin-left: 25px; background-color: white;
+}
+#o5{
+    border: none; margin-left: -720px; height: 65px; width: 720px; position: relative; top: -878px; background-color: red; color: white; font-size: 18px; text-align: left;
+}
+#o6{
+    position: relative; top: -860px; margin-left: 40px; font-size: 16px;
+}
+#o7{
+    padding-right: 10px;
+}
+#o8{
+    width: 328px; height: 40px; border: 1px solid lightgrey;
+}
+#o9{
+    margin-left: 350px; position: relative; top: -62px;
+}
+#o10{
+    position: relative; top: -40px;
+}
+#o11{
+    margin-left: 350px; position: relative; top: -102px;
+}
+#o12{
+    width: 190px; font-size: 15px; height: 40px; position: relative; top: -80px; background-color:rgb(81, 80, 80); color: white; border: none;
+}
+#o12:hover{
+    background-color: lightgray;  color: black;
+}
+#o13{
+    position: relative; top: -124px; margin-left: 700px;
+}
+#o14{
+    width: 248px; height: 40px; border: 1px solid lightgrey;
+}
+#o15{
+    margin-left: 970px; position: relative; top: -186px;   
+}
+#o16{
+    margin-left: 1250px; position: relative; top: -229px; width: 222px; font-size: 15px; height: 43px; background-color:black; color: white; border: none;
+}
+#o16:hover{
+    background-color: lightgray;  color: black;
+}
+#o18{
+    position: absolute; top: 880px; margin-left: 20px; color: black;
+}
+#o19{
+    position: relative; top: -210px;
+}
+#o20{
+    margin-left: 12px;
+}
+#o21{
+    width: 456px; background-color: white; border: none; position: relative; top: -3px;
+}
+#o22{
+    width: 456px; background-color: white; border: none; margin-left: 497px; position: relative; top: -264px;
+}
+#o23{
+    width: 456px; background-color: white; border: none; margin-left: 993px; position: relative; top: -525px;
+}
+#o24{
+    color: lightgray;
+}
+#o25{
+    width: 455px; height: 40px; background-color: black; border: none; color: white; font-size: 16px;
+}
+#o26{
+    margin-left: 20px; margin-top: 140px;
+}
+#o27{
+    margin-left: 493px;
+}
+#o28{
+    position: relative; top: -540px; line-height: 30px;
+}
+#o29{
+    letter-spacing: 2px; color: black; margin-left: 15px;
+}
+#o30{
+    color: red
+}
+#o31{
+    display: flex; justify-content: space-around; font-size: 16px; position: relative; top: -430px;
+}
+#o32{
+    width: 1516px; background-color: red; color: white; height: 110px; position: relative; top: -400px;
+}
+#o33{
+    position: relative; top: 45px; margin-left: 30px;
+}
+#o34{
+    margin-left: 13px; position: relative; top: -310px;
+}
+#o35{
+    margin-left: 1135px; position: relative; top: -572px;
+}
+#o36{
+    margin-left: 769px; position: relative; top: -559px;
+}
+#o37{
+    margin-left: 1135px; position: relative; top: -854px;
+}
+#o38{
+    position: relative; top: -890px; color: white; margin-left: 20px;
+}
+#o39{
+    position: relative; top: -1220px; color: white; margin-left: 790px;
+}
+#o40{
+    position: relative; top: -934px; color: white; margin-left: 790px;
+}
+#o41{
+    position: relative; top: -1264px; margin-left: 1160px; color: white;
+}
+#o42{
+    position: relative; top: -980px; margin-left: 1160px; color: white;
+}
+#o43{
+    width: 1516px; color: white; background-color: black; height: 290px; position: relative; top: -1250px; opacity: 0.5;
+}
+#o43:hover{
+    opacity: 1;
+}
+#o44{
+    margin-left: 20px; position: relative; top: 40px;
+}
+#o45{
+    width: 1470px; height: 40px; font-size: 18px;
+}
+#o46{
+    width: 100px; height: 35px; background-color: red; border: none; color: white; font-size: 16px;
+}
+#o47{
+    color: red;
+    padding-right: 15px;
+}
+#o48{
+    width: 222px; font-size: 15px; height: 43px; background-color:black; color: white; border: none;
+}
+#o48:hover{
+    background-color: lightgray; color: black;
+}
+#o49{
+    width: 1450px; height: 40px; font-size: 16px;
+}
+#o50{
+    margin-left: 20px; position: relative; top: -1200px;
+}
